@@ -1,0 +1,12 @@
+.window_style {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    background-color: rgba(87, 248, 87, 0.7);
+}
+
+.setting {
+    width: 5px;
+    height: 5px;
+}
